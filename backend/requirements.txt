@@ -1,0 +1,7 @@
+flask
+azure-storage-blob
+openai
+langchain
+faiss-cpu
+pypdf2
+streamlit
